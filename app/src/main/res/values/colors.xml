@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRed">#e13d5f</color>
+    <color name="colorGrey">#ebebeb</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="alertPrimary">#cce5ff</color>
+    <color name="alertPrimaryFontColor">#004085</color>
+    <color name="alertSuccess">#d4edda</color>
+    <color name="alertSuccessFontColor">#155724</color>
+    <color name="alertDanger">#f8d7da</color>
+    <color name="alertDangerFontColor">#721c24</color>
+    <color name="alertWarning">#fff3cd</color>
+    <color name="alertWarningFontColor">#856404</color>
+    <color name="alertInfo">#d1ecf1</color>
+    <color name="alertInfoFontColor">#0c5460</color>
+    <color name="alertSecondary">#e2e3e5</color>
+    <color name="alertSecondaryFontColor">#383d41</color>
+
+    <color name="btnPrimary">#007bff</color>
+    <color name="btnSecondary">#6c757d</color>
+    <color name="btnSuccess">#28a745</color>
+    <color name="btnDanger">#dc3545</color>
+    <color name="btnWarning">#ffc107</color>
+    <color name="btnInfo">#17a2b8</color>
+
+</resources>
