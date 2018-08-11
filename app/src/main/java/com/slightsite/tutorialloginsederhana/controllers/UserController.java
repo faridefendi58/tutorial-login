@@ -11,9 +11,7 @@ public class UserController {
     private static Database database;
     private static UserController instance;
 
-    private UserController() {
-
-    }
+    private UserController() {}
 
     public static UserController getInstance() {
         if (instance == null)

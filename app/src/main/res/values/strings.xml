@@ -2,6 +2,7 @@
     <string name="app_name">Tutorial Login Sederhana</string>
 
     <string name="title_activity_login">Sign in or create an account</string>
+    <string name="title_activity_main">Dashboard</string>
 
     <string name="prompt_email">Email</string>
     <string name="prompt_password">Password</string>
@@ -23,4 +24,8 @@
     <string name="permission_rationale">"Izin kontak diperlukan untuk menyediakan penyelesaian email."</string>
     <string name="login_header_information">Isilah form ini dengan akun login anda,
         atau buat akun terlebih dahulu untuk dapat menggunakan aplikasi ini.</string>
+
+    <string name="txt_welcome">Selamat datang</string>
+
+    <string name="btn_logout">Logout</string>
 </resources>

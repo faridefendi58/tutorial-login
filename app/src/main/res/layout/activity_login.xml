@@ -43,7 +43,7 @@
                 android:background="@color/alertInfo"
                 android:textColor="@color/alertInfoFontColor"/>
 
-            <AutoCompleteTextView
+            <EditText
                 android:id="@+id/email"
                 style="?android:textAppearanceSmall"
                 android:layout_width="match_parent"
